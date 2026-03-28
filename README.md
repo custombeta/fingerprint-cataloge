@@ -6,7 +6,7 @@
 [![LSPosed](https://img.shields.io/badge/LSPosed-Module-orange?logo=android&logoColor=white)](https://github.com/LSPosed/LSPosed)
 [![Telegram](https://img.shields.io/badge/Телеграмм-blue?logo=Telegram&logoColor=white)](https://t.me/duchamppower)
 
-Xposed модуль на HyperOS, для кастомизации иконок и ~анимаций~ отпечатка пальца. Позволяет создавать, загружать, импортировать и применять собственные иконки отпечатка
+Xposed модуль на HyperOS, для кастомизации иконок и ~анимаций~ отпечатка пальца. Позволяет создавать, загружать, импортировать и применять собственные иконки отпечатка пальца.
 
 
 ## Совместимость
