@@ -1,4 +1,4 @@
-Telegram: [`@custombeta`]https://t.me/custombeta)
+Telegram: [`@custombeta`](https://t.me/custombeta)
 ---
 ## Список изменений
 - Добавление страницы `LogViewer`
