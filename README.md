@@ -1,6 +1,6 @@
 # Fingerprint Cataloge
 
-<img src="/assets/fingerprint-cataloge-logo.png" width="130" alt="logo">
+<img src="/assets/fingerprint-cataloge-logo.png" width="150" alt="logo">
 
 [![Release](https://img.shields.io/github/v/release/custombeta/Fingerprint-cataloge?label=Релиз&color=blue&logo=github)](https://github.com/custombeta/Fingerprint-cataloge/releases/latest)
 [![LSPosed](https://img.shields.io/badge/LSPosed-Module-orange?logo=android&logoColor=white)](https://github.com/LSPosed/LSPosed)
