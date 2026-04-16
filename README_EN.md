@@ -14,7 +14,6 @@
 
 Xposed module for HyperOS, for customizing fingerprint icons and animations. Allows you to create, download, import, and apply custom fingerprint icons.
 
-
 ## Compatibility
 |                  | Requirements     |
 |------------------|------------------|
