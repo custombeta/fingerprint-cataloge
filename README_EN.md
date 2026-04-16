@@ -1,6 +1,6 @@
 <div align="right">
-  <a href="README.md"><img src="https://img.shields.io/badge/🇷🇺_RU-gray"></a> 
-  <a href="README_EN.md"><img src="https://img.shields.io/badge/🇺🇸_EN-blue"></a>
+  <a href="https://github.com/custombeta/fingerprint-cataloge/blob/main/README.md"><img src="https://img.shields.io/badge/🇷🇺_RU-gray"></a> 
+  <a href="https://github.com/custombeta/fingerprint-cataloge/blob/main/README_EN.md"><img src="https://img.shields.io/badge/🇺🇸_EN-blue"></a>
 </div>
 
 <div align="center">
