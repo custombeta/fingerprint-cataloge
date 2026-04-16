@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="/assets/fingerprint-cataloge-logo.png" width="150" alt="logo">
+<img src="https://raw.githubusercontent.com/custombeta/fingerprint-cataloge/refs/heads/main/assets/fingerprint-cataloge-logo.png" width="150" alt="logo">
 
 # Fingerprint Cataloge
 
