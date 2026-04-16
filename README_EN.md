@@ -1,9 +1,11 @@
+<div align="right">
+  <a href="README_EN.md"><img src="https://img.shields.io/badge/🇺🇸_EN-blue"></a>
+  <a href="README.md"><img src="https://img.shields.io/badge/🇷🇺_RU-gray"></a>
+</div>
+
 <div align="center">
-  
-<img src="https://raw.githubusercontent.com/custombeta/fingerprint-cataloge/refs/heads/main/assets/fingerprint-cataloge-logo.png" width="150" alt="logo">
-
-# Fingerprint Cataloge
-
+  <img src="https://raw.githubusercontent.com/custombeta/fingerprint-cataloge/refs/heads/main/assets/fingerprint-cataloge-logo.png" width="150" alt="logo">
+  <h1>Fingerprint Cataloge</h1>
 </div>
 
 [![Release](https://img.shields.io/github/v/release/custombeta/Fingerprint-cataloge?label=Release&color=blue&logo=github)](https://github.com/custombeta/Fingerprint-cataloge/releases/latest)
