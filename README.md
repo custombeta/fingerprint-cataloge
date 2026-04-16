@@ -1,14 +1,11 @@
 <div align="right">
-  <a href="README_EN.md"><img src="https://img.shields.io/badge/lang-EN-blue" alt="EN"></a>
-  <a href="README.md"><img src="https://img.shields.io/badge/lang-RU-red" alt="RU"></a>
+  <a href="README_EN.md"><img src="https://img.shields.io/badge/🇺🇸_EN-grey"></a>
+  <a href="README.md"><img src="https://img.shields.io/badge/🇷🇺_RU-blue"></a>
 </div>
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/custombeta/fingerprint-cataloge/refs/heads/main/assets/fingerprint-cataloge-logo.png" width="150" alt="logo">
-
-# Fingerprint Cataloge
-
+  <img src="https://raw.githubusercontent.com/custombeta/fingerprint-cataloge/refs/heads/main/assets/fingerprint-cataloge-logo.png" width="150" alt="logo">
+  <h1>Fingerprint Cataloge</h1>
 </div>
 
 [![Release](https://img.shields.io/github/v/release/custombeta/Fingerprint-cataloge?label=Релиз&color=blue&logo=github)](https://github.com/custombeta/Fingerprint-cataloge/releases/latest)
@@ -16,7 +13,6 @@
 [![Telegram](https://img.shields.io/badge/Телеграмм-blue?logo=Telegram&logoColor=white)](https://t.me/duchamppower)
 
 Xposed модуль на HyperOS, для кастомизации иконок и анимаций отпечатка пальца. Позволяет создавать, загружать, импортировать и применять собственные иконки отпечатка пальца.
-
 
 ## Совместимость
 |                  | Требования     |
