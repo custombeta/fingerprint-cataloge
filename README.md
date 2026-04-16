@@ -1,5 +1,10 @@
+<div align="right">
+  <a href="README_EN.md"><img src="https://img.shields.io/badge/lang-EN-blue" alt="EN"></a>
+  <a href="README.md"><img src="https://img.shields.io/badge/lang-RU-red" alt="RU"></a>
+</div>
+
 <div align="center">
-  
+
 <img src="https://raw.githubusercontent.com/custombeta/fingerprint-cataloge/refs/heads/main/assets/fingerprint-cataloge-logo.png" width="150" alt="logo">
 
 # Fingerprint Cataloge
